@@ -6,7 +6,7 @@ The website is made so that it is responsive. Both on pc's, pads and mobiles the
 #### Live Demo
 A live demo of the website can be found [here].
 
-[here]: https://sdv-project-cw.herokuapp.com/
+[here]: https://steindevos.github.io/
 
 ## UX 
 The website is built with the aim of giving a clear overview of what the company does, its previous work, and how to contact them. The assumption is that these are the most important questions that potential buyers will have. 
@@ -35,7 +35,12 @@ Although this project uses bootstrap for its layout, the styling is done complet
 * scss file - Creating a scss file will make it more easy to switch from theme or to add new html pages in the same style. 
 
 ## Getting started
-Want to use this website as a template for your own project? That's perfectly fine. Just clone the project to your local machine: ```git clone git@github.com:steindevos/project1_CI.git```. 
+Want to use this website as a template for your own project? That's perfectly fine. Just clone the project to your local machine: ```git clone git@github.com:steindevos/project1_CI.git```.
+
+#### Deploying
+If you want to deploy your own version of the website you can do that best on Github pages. Import your Github project to a new repo with the following name ```username.github.io```, where username is the username of your account. Make sure to have an ```index.html```. 
+
+Go to the repo and check your settings. Github should have automatically deployed your website and the url should be there! 
 
 ## Acknowledgements 
 I want to thank Ward van Zeijl for delivering most of the content for the website. 
