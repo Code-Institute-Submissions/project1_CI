@@ -316,15 +316,15 @@ header {
     padding-right: 15px;
 }
 
-#fa-chart {
+.fa-chart {
     color: #b4d593;
 }
 
-#fa-university {
+.fa-university {
     color: #92B1CE;
 }
 
-#fa-aftermovies {
+.fa-aftermovies {
     color: #c1749c;
 }
 
@@ -413,6 +413,8 @@ header {
     height: 45px;
     border-bottom: 1px solid #5e5e5e;
 }
+
+
 
 .filter-button {
     font-size: 18px;
